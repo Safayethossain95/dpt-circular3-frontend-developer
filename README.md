@@ -46,3 +46,26 @@ Start the server
 
 - [@Safayethossain95](https://github.com/Safayethossain95)
 
+
+## Completion Time
+
+ - It took 3 hours to complete
+
+
+
+## Besk Practices
+
+- Event handling
+- Conditional rendering
+- Component Structure
+- Lifecycle Hooks
+
+## My Live Projects
+
+- [FerryTech](http://new.ferrytech.net/)
+- [British Standard School](http://deboease.bssitbd.com/)
+
+## Github links
+
+- [FeryTech](https://github.com/Safayethossain95/ferrytech)
+- [BSSIT](https://github.com/Safayethossain95/BSSITnewWebSite)
