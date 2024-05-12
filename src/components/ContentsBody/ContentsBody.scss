@@ -1,0 +1,43 @@
+.contentsbody{
+    .heading{
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+}
+button{
+    background-color: #27609c;
+    border:0;
+    border-radius: 4px;
+    text-transform: uppercase;
+    color:#fff;
+    padding:6px;
+}
+form{
+    
+    input{
+        width: 120px;
+    }
+}
+table{
+ 
+    tbody{
+        tr:nth-child(odd) {
+          
+            border-color: transparent!important;
+        }
+
+    }
+    td,th{
+        text-align: left;
+    }
+    td{
+        button{
+            background-color: #27609c;
+            border:0;
+            border-radius: 4px;
+            text-transform: uppercase;
+            color:#fff;
+            padding:6px;
+        }
+    }
+}
